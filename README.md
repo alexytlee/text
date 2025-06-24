@@ -1,102 +1,79 @@
-# Privacy Policy
+# Terms of Service
+_Last updated: 24 June 2025_
 
-**Last updated: January 2025**
-
-## Introduction
-
-We value your privacy. This Privacy Policy explains how our mobile applications ("Apps," "we," "our," or "us") collect, use, and protect your information when you use any of our mobile applications.
-
-## Information We Collect
-
-### Device Permissions and Access
-
-Depending on the specific app functionality, we may request access to:
-
-- **Camera Access**: To capture photos and videos for processing within the app
-- **Photo Library Access**: To save processed media and enable photo editing functionality
-- **Microphone Access**: To record audio with videos when applicable
-- **Device Information**: We may collect information about your device, including device model, operating system version, and unique device identifiers
-
-### Data Processing
-
-All image and media processing occurs locally on your device, including face detection, photo editing, or media review. Access to your photo library or camera is used solely to enable the app's core functionality, such as editing or managing your media. **No photos or personal information are uploaded, stored, or shared by us.**
-
-### Usage and Analytics Data
-
-We may collect:
-
-- **Usage Data**: Information about how you use the App, including features accessed and time spent using the App
-- **Device identifiers**: For ad targeting purposes
-- **App usage data**: For analytics and app improvement
-- **Performance data**: To improve app functionality and user experience
-
-## Advertising
-
-All our apps may display advertisements. We use third-party services like Google AdMob to display advertisements. These services may collect anonymized usage data or use device identifiers to personalize ads. We do not have access to or control over this data.
-
-We may request permission to track your activity across other apps and websites for personalized advertising. You can control ad personalization through your device settings.
-
-## How We Use Your Information
-
-We use the collected information to:
-
-- Provide core app functionality (photo/video processing, editing, etc.)
-- Save processed media to your photo library
-- Display relevant advertisements
-- Improve app performance and user experience
-- Provide customer support
-
-## Data Sharing
-
-We may share your information with:
-
-- **Google AdMob**: For advertising purposes
-- **Apple/Google**: Through app store analytics and crash reporting
-- **Service Providers**: Third-party services that help us operate our apps
-
-## Subscription Services
-
-Some of our apps may offer premium subscriptions that include features such as:
-
-- Remove watermarks and ads
-- Unlimited saves and exports
-- Priority customer support
-- Enhanced functionality
-
-### Subscription Details
-
-- **Auto-renewal**: Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
-- **Cancellation**: You can cancel your subscription at any time through your App Store account settings
-- **Pricing**: As displayed in the respective App Store
-
-## Data Security
-
-We implement appropriate security measures to protect your information against unauthorized access, alteration, disclosure, or destruction.
-
-## Your Rights
-
-You have the right to:
-
-- Request access to your personal information
-- Request correction of inaccurate information
-- Request deletion of your information
-- Opt out of personalized advertising
-- Manage app permissions in your device settings
-
-## Children's Privacy
-
-Our apps are not intended for children under 13. We do not knowingly collect personal information from children under 13.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. This Privacy Policy is effective as of the date stated above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted.
-
-## Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-**Email**: alexytlee@gmail.com
+## Table of Contents
+1. [Introduction](#introduction)  
+2. [Eligibility & Account Responsibilities](#eligibility--account-responsibilities)  
+3. [License & Acceptable Use](#license--acceptable-use)  
+4. [Intellectual Property](#intellectual-property)  
+5. [Purchases, Subscriptions & Fees](#purchases-subscriptions--fees)  
+6. [Advertising & Rewards](#advertising--rewards)  
+7. [Disclaimer of Warranties](#disclaimer-of-warranties)  
+8. [Limitation of Liability & Release](#limitation-of-liability--release)  
+9. [Indemnification](#indemnification)  
+10. [Termination](#termination)  
+11. [Governing Law & Dispute Resolution](#governing-law--dispute-resolution)  
+12. [Changes to the Terms](#changes-to-the-terms)  
+13. [Privacy Policy](#privacy-policy)  
+14. [Contact Us](#contact-us)
 
 ---
 
-*This Privacy Policy applies to all mobile applications developed and published by us, regardless of their specific functionality or features.*
+## Introduction
+These Terms of Service (“**Terms**”) govern your use of any mobile application published by us (collectively, “**Apps**,” “**we**,” “**our**,” or “**us**”).  
+By downloading, installing, or using an App you agree to be bound by these Terms.  
+If you do not agree, **do not use the Apps**.
+
+## Eligibility & Account Responsibilities
+- **Age Requirement** – You must be at least 13 years old (or the minimum legal age in your jurisdiction).  
+- **Compliance** – You must comply with all applicable laws & regulations.  
+- **Account Security** – If an App allows account creation, you are responsible for safeguarding credentials and for all activity under your account.
+
+## License & Acceptable Use
+1. **Limited License** – We grant you a personal, non-exclusive, revocable, non-transferable license to use the Apps subject to these Terms.  
+2. **Prohibited Conduct** – You must not:  
+   - reverse-engineer, decompile, or disassemble the Apps;  
+   - modify, translate, or create derivative works;  
+   - violate any law or third-party right;  
+   - exploit voting, leaderboard, or reward systems (e.g., multi-account voting);  
+   - upload unlawful, harmful, or infringing content;  
+   - bypass security or access systems without authorization.  
+3. **Reservation of Rights** – All rights not expressly granted are reserved.
+
+## Intellectual Property
+All trademarks, logos, source code, artwork, audio, and other content in the Apps are our property or that of our licensors and are protected by intellectual-property laws.
+
+## Purchases, Subscriptions & Fees
+- **In-App Purchases & Subscriptions** – Some features require a one-time fee or recurring subscription. Prices appear in the App Store listing and may vary.  
+- **Billing & Renewal** – Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period.  
+- **Cancellation** – Manage or cancel via your App Store account settings. Deleting the App does **not** cancel a subscription.  
+- **Refunds** – All sales are final except where required by law or by App Store policy.
+
+## Advertising & Rewards
+The Apps may display ads (interstitial, rewarded, app-open, etc.) served by third-party networks such as Google AdMob. Viewing rewarded ads may grant in-app benefits per in-app terms.
+
+## Disclaimer of Warranties
+The Apps are provided **“as is”** and **“as available”** without warranties of any kind. Features (including characters or other content) may be added, modified, or removed at our sole discretion at any time.
+
+## Limitation of Liability & Release
+To the maximum extent permitted by law, we shall not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of profits, data, or goodwill.  
+You release us from any liability arising out of voting, leaderboard, or reward features, subject to applicable laws and third-party rights.
+
+## Indemnification
+You agree to defend, indemnify, and hold us harmless from any claims or losses arising from your violation of these Terms or misuse of the Apps.
+
+## Termination
+We may suspend or terminate access to any App at any time, with or without notice, for conduct that violates these Terms or is harmful to us, users, or third parties.
+
+## Governing Law & Dispute Resolution
+Unless mandatory local law states otherwise, these Terms are governed by the laws of the jurisdiction where we are incorporated, without regard to conflict-of-laws rules.  
+Disputes shall be resolved in the competent courts of that jurisdiction.
+
+## Changes to the Terms
+We may modify these Terms at any time. Material changes take effect 30 days after posting. Continued use of an App constitutes acceptance.
+
+## Privacy Policy
+For information on how we collect, use, and protect data, see [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md).
+
+## Contact Us
+**Email:** alexytlee@gmail.com
